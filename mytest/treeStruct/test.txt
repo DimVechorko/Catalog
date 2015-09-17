@@ -1,7 +1,12 @@
 test 001
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
+=======
+test 002
+test 003
+>>>>>>> parent of 184611b... test 001
 =======
 test 002
 test 003
