@@ -1,8 +1,12 @@
 test 001
+<<<<<<< HEAD
 test 007
 <<<<<<< HEAD
 <<<<<<< HEAD
 
+=======
+test 002
+>>>>>>> parent of 54ffd98... test 002
 
 =======
 test 002
