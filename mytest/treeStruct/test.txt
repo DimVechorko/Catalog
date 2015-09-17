@@ -5,6 +5,7 @@ test 001
 
 =======
 test 002
+<<<<<<< HEAD
 test 003
 >>>>>>> parent of 184611b... test 001
 =======
@@ -12,3 +13,6 @@ test 002
 test 003
 >>>>>>> parent of 184611b... test 001
 
+=======
+test 003
+>>>>>>> parent of 5438bb3... удалил строку
